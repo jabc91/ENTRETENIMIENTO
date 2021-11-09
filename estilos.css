@@ -1,0 +1,128 @@
+body{
+  background-image: url(1.jpg);
+  background-size: cover;
+
+
+}
+h1{
+  font-family: castellar;
+  font-style: italic;
+  margin: auto;
+  text-align: center;
+  border-style: outset;
+  background-color: skyblue;
+}
+
+button{
+  border: 3px solid rgba(0,0,0,0.8);
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 300px;
+  font-family: "Algerian";
+  font-size: 16px;
+  border-radius: 0px;
+  cursor: pointer;
+  color: #FFF;
+  background-size: 40%;
+  transition: 3s;
+
+
+}
+
+.periodico1{
+  background-image: linear-gradient(to left, #00B7DA, #161569, #00B7DA);
+
+}
+.periodico2{
+  background-image: linear-gradient(to left, #00B7DA, #161569, #00B7DA);
+
+}
+.periodico3{
+  background-image: linear-gradient(to left, #00B7DA, #161569, #00B7DA);
+
+}
+.periodico4{
+  background-image: linear-gradient(to left, #00B7DA, #161569, #00B7DA);
+
+}
+
+.botongeneral:hover{
+  border: 3px solid rgba(0,0,0,0.8);
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 300px;
+  font-family: "Algerian";
+  font-size: 16px;
+  border-radius: 50px;
+  cursor: pointer;
+  color: #FFF;
+  background-size: 40%;
+  transition: 3s;
+  transform: rotate(360deg);
+}
+
+.emisora1{
+  background-image: linear-gradient(to left, #A950A1, #2D3A54, #A950A1);
+}
+.emisora2{
+  background-image: linear-gradient(to left, #A950A1, #2D3A54, #A950A1);
+}
+.emisora3{
+  background-image: linear-gradient(to left, #A950A1, #2D3A54, #A950A1);
+}
+.emisora4{
+  background-image: linear-gradient(to left, #A950A1, #2D3A54, #A950A1);
+}
+
+.botogenerall:hover{
+  border: 3px solid rgba(0,0,0,0.8);
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 300px;
+  font-family: "Algerian";
+  font-size: 16px;
+  border-radius: 50px;
+  cursor: pointer;
+  color: #FFF;
+  background-size: 40%;
+  transition: 3s;
+  transform: rotate(360deg);
+}
+
+.botonn{
+  background-image: linear-gradient(to left, #FFCAE3, #FF499D, #FFCAE3);
+
+}
+.botonn:hover{
+  border: 3px solid rgba(0,0,0,0.8);
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 300px;
+  font-family: "Algerian";
+  font-size: 16px;
+  border-radius: 50px;
+  cursor: pointer;
+  color: #FFF;
+  background-size: 40%;
+  transition: 3s;
+  transform: rotate(360deg);
+}
+
+.columna{
+  float: right;
+  margin: 30px;
+  padding: 30px;
+  background: skyblue;
+  position: relative;
+  right: 430px;
+}
+
+blockquote{
+
+  font-size: 19px;
+  font-style: italic;
+
+}
+aside{
+  border-style: double;
+}
